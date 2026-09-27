@@ -2,7 +2,7 @@
 
 > 多平台 AI API 用量与成本统计工具
 
-[在线体验](https://jyujingwai.github.io/Token_workbench/) · [GitHub 仓库](https://github.com/Jyujingwai/Token_workbench)
+[在线体验页面](https://jyujingwai.github.io/Token_workbench/) · [GitHub 仓库](https://github.com/Jyujingwai/Token_workbench)
 
 Token Workbench 是一个用于记录多平台 AI API 用量、消费金额、账户余额和历史统计的个人工具。项目支持在浏览器中直接运行，不要求登录、后端服务或联网请求。
 
@@ -10,7 +10,7 @@ Token Workbench 是一个用于记录多平台 AI API 用量、消费金额、�
 
 ## 快速体验路径
 
-1. 打开[在线体验](https://jyujingwai.github.io/Token_workbench/)。
+1. 打开[在线体验页面](https://jyujingwai.github.io/Token_workbench/)。
 2. 如果页面提供“恢复演示数据”，先点击该入口。
 3. 查看首页的用量、费用和账户余额概览。
 4. 进入“数据看板”，查看 Token 用量趋势、模型占比和费用统计。
